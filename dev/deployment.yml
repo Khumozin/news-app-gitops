@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: news-app
-        image: khumo/news-app:v2.5.1
+        image: khumo/news-app:v2.5.5
         ports:
         - containerPort: 80
